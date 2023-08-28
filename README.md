@@ -2,17 +2,22 @@
 This is a YouTube clone webpage created using HTML and CSS. It replicates the basic design and layout of the YouTube website, allowing users to view and interact with videos.
   
 ## Replicating the website is done for educational purpose.
-## Respective images/content present belongs to individuals themselves. 
+## Respective images/content in page belongs to respective individuals themselves. 
+
+## Demo of Recreated Youtube webpage
+
+![image](https://github.com/AstikSonawane/YouTube_clone/assets/103988783/b84e575a-ff3b-4227-b725-f1dd52954a5b)
 
 
 ## Table of Contents
 
-- [Features]
-- [Installation]
-- [Usage]
-- [Technologies Used]
-- [Contributing]
-- [License]
+- [Features](Features)
+- [Installation](Installation)
+- [Usage](Usage)
+- [Technologies Used](Technologies Used)
+- [Contributing](Contributing)
+- [Acknowledgments](Acknowledgments)
+- [License](License)
 
 ## Features
 
@@ -48,7 +53,15 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository
 5. Create a pull request to the main repository
 
+
+Feel free to customize this template to fit your project's details and requirements. Replace placeholders like `your-username`, `project-name`, and update sections accordingly. You can also add more sections or rearrange them based on the specifics of your project.
+
+## Acknowlegments
+
+[https://github.com/SuperSimpleDev](url)    
+
+[https://youtu.be/G3e-cpL7ofc?si=6TEtCjwsWcytwgwh](url)
+
 ## License
 
-This project is licensed under the [LICENSE] .
-
+This project is licensed under the [GNU General Public License v3.0](license).
