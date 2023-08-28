@@ -42,6 +42,7 @@ Simply open the `youtube.html` file in a web browser to view and interact with t
 
 - HTML
 - CSS
+- VS Code
 
 ## Contributing
 
