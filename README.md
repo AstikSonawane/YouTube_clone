@@ -14,7 +14,7 @@ This is a YouTube clone webpage created using HTML and CSS. It replicates the ba
 - [Features](Features)
 - [Installation](Installation)
 - [Usage](Usage)
-- [Technologies Used](Technologies Used)
+- [Technologies_Used](Technologies_Used)
 - [Contributing](Contributing)
 - [Acknowledgments](Acknowledgments)
 - [License](License)
@@ -38,7 +38,7 @@ This is a YouTube clone webpage created using HTML and CSS. It replicates the ba
 Simply open the `youtube.html` file in a web browser to view and interact with the YouTube clone webpage. You can browse videos, watch videos, and even interact with the comment section.
 **Make sure the path in youtube.html for images/icons/thumbnails is set right.
 
-## Technologies Used
+## Technologies_Used
 
 - HTML
 - CSS
