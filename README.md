@@ -9,9 +9,6 @@ This is a YouTube clone webpage created using HTML and CSS. It replicates the ba
 ![image](https://github.com/AstikSonawane/YouTube_clone/assets/103988783/4f683b3e-c8e3-44ca-a615-86ba49946f08)
 
 
-https://github.com/AstikSonawane/YouTube_clone/assets/103988783/5af39138-25ae-4608-bb2b-5445c7c2266b
-
-
 
 
 
