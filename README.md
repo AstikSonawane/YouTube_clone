@@ -10,6 +10,9 @@ This is a YouTube clone webpage created using HTML and CSS. It replicates the ba
 
 
 
+https://github.com/AstikSonawane/YouTube_clone/assets/103988783/eff74d02-6772-4a54-a3fe-d2feeff2e23c
+
+
 
 
 ## Table of Contents
