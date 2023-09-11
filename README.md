@@ -6,6 +6,8 @@ This is a YouTube clone webpage created using HTML and CSS. It replicates the ba
 
 ## Demo of Recreated Youtube webpage
 
+View the clone website **here:** https://astiksonawane.github.io/YouTube_clone/
+
 ![image](https://github.com/AstikSonawane/YouTube_clone/assets/103988783/4f683b3e-c8e3-44ca-a615-86ba49946f08)
 
 
